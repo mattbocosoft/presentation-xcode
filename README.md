@@ -1,2 +1,2 @@
 # presentation-xcode
-Presentation for CS 5828 on the Xcode IDE
+Presentation for CSCI 5828 on the Xcode IDE
