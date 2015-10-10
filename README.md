@@ -16,6 +16,8 @@ The first version of Xcode was released in 2003, and was based off of Project Bu
 
 The most popular alternative IDE for developing native software for OS X, iOS, and watchOS is [AppCode](https://www.jetbrains.com/objc/). Other IDE's support cross-platform development of OS X and iOS apps using langauges like C#.  
 
+Xcode is complex software with many features. This presentation will cover some of the more popular and used workflows and features.  
+
 ###Workflow  
 * Source Editor  
 * Interface Builder  
