@@ -4,6 +4,7 @@
 Student: **Matthew Thomas**  
 Presentation 2
 
+![images/xcode-icon.png](images/xcode-icon.png)  
 # Xcode
 
 Xcode is an [Integrated Development Environment (IDE)](https://en.wikipedia.org/wiki/Integrated_development_environment) for developing software for projects on Mac OS X, iOS, watchOS and tvOS.
