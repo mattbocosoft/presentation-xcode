@@ -2,22 +2,24 @@
 *Fall 2015, Professor Kenneth Anderson*
 
 Student: **Matthew Thomas**  
-Presentation 2
+Presentation 2  
 
 ![images/xcode-icon.png](images/xcode-icon.png)  
 # Xcode
 
-Xcode is an [Integrated Development Environment (IDE)](https://en.wikipedia.org/wiki/Integrated_development_environment) for developing software for projects on Mac OS X, iOS, watchOS and tvOS.
+Xcode is the [Integrated Development Environment (IDE)](https://en.wikipedia.org/wiki/Integrated_development_environment) for developing software for projects on Mac OS X, iOS, watchOS and tvOS.
 
 ###Background  
 Xcode is available only for Mac OSX and is free to download from the [Mac App Store](http://www.apple.com/osx/apps/app-store/). Preview and previous versions of Xcode are available via the [Apple Developer Portal](https://developer.apple.com).
 
-####History
-Xcode
+The first version of Xcode was released in 2003, and was based off of Project Builder (PBX) which had previously been used to build software for OS X. Starting with Xcode 4 in 2010, Apple has announced a new version of the software annually at the [Apple Worldwide Developers Conference (WWDC)](https://developer.apple.com/wwdc/).  
+
+The most popular alternative IDE for developing native software for OS X, iOS, and watchOS is [AppCode](https://www.jetbrains.com/objc/). Other IDE's support cross-platform development of OS X and iOS apps using langauges like C#.  
 
 ###Workflow  
 * Source Editor  
 * Interface Builder  
+* Documentation  
 
 ###Continuous Integration  
 * Build Configurations  
@@ -33,7 +35,7 @@ Xcode
 ###Editors  
 * Standard Editor  
 * Assistant Editor  
-* Version Editor 
+* Version Editor  
 
 ###Project Logistics  
 * App Store Submission  
