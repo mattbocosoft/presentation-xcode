@@ -19,9 +19,9 @@ The most popular alternative IDE for developing native software for OS X, iOS, a
 Xcode is complex software with many features. This presentation will cover some of the more popular and used workflows and features.  
 
 ###Workflow  
-* Source Editor  
-* Interface Builder  
-* Documentation  
+* [Source Editor](source-editor.md)  
+* [Interface Builder](interface-builder.md)  
+* [Documentation](documentation.md)  
 
 ###Continuous Integration  
 * Build Configurations  
@@ -30,9 +30,9 @@ Xcode is complex software with many features. This presentation will cover some 
 * Version Control  
 
 ###Window Areas  
-* Navigator  
-* Debug  
-* Utilities  
+* [Navigator](area-navigator.md)  
+* [Debug](area-debug.md)  
+* [Utilities](area-utilities.md)  
 
 ###Editors  
 * Standard Editor  
