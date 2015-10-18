@@ -19,3 +19,5 @@ While typing in Xcode, it's easy to type the names of symbols (e.g. methods, var
 It's important to learn how to take advantage of short-cuts like code completion and keyboard shortcuts in order to speed up your workflow.  
 
 
+###Navigation
+Use the left and right arrows on the top left corner of the window to navigate 
