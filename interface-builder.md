@@ -11,6 +11,8 @@ Introduced in iOS 5, Storyboards allow developers to design entire workflows.
 ###Autolayout
 One of the power features delivered in iOS 6 is Autolayout; a relation-based dynamic runtime positioning system for views. Prior to iOS 6, developers used Springs and Struts however this was limited in its capabilities and often required developers to write code to manually position even moderately complex view layouts.
 
+Autolayout is fairly complex to a first-time user, but there are many tutorials available that can help walk through the concepts. Ray Wenderlich offers a [14-part video series](http://www.raywenderlich.com/video-tutorials#autolayout) on Autolayout.
+
 ###Size Classes
 As a way of handling the growing divergence in screen sizes, Apple introduced Size Classes in iOS 8. Constraints can be enabled or disabled on a per-size-class basis to achieve specialized layouts for certain screen sizes without having to create multiple versions of the same storyboard or Nib for each screen size.
 
