@@ -8,6 +8,8 @@ It is often helpful for developers to simultaneously cross-reference a view with
 ###Storyboards
 Introduced in iOS 5, Storyboards allow developers to design entire workflows.
 
+![interface-builder-storyboard](images/interface-builder-storyboard.png)
+
 ###Autolayout
 One of the power features delivered in iOS 6 is Autolayout; a relation-based dynamic runtime positioning system for views. Prior to iOS 6, developers used Springs and Struts however this was limited in its capabilities and often required developers to write code to manually position even moderately complex view layouts.
 
