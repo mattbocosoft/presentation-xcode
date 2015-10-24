@@ -18,6 +18,7 @@ An alternative to this if the developer chooses not to use the Utilities panel o
 
 Whether from the Quick Help Inspector or the popup window, developers can access more detailed information about the symbol by clicking the Reference link towards the bottom of the documentation content.
 
+*Reference*: [Mac Developer Library - Looking Up Documentation for an API Symbol](https://developer.apple.com/library/mac/recipes/xcode_help-source_editor/chapters/FindingAPIDocumentation.html)
 
 ###Documentation and API Reference Window
 Access the full documentation and API reference without context-sensitive look-up by opening the "Window" menu and clicking on "Documentation and API Reference".
