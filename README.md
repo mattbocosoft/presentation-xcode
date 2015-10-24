@@ -32,7 +32,6 @@ Xcode is complex software with many features. This presentation will cover some 
 ###Window Areas  
 * [Navigator](area-navigator.md)  
 * [Debug](area-debug.md)  
-* [Utilities](area-utilities.md)  
 
 ###Editors  
 * Standard Editor  
