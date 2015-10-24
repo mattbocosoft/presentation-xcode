@@ -24,7 +24,7 @@ Xcode is complex software with many features. This presentation will cover some 
 * [Documentation](documentation.md)  
 
 ###Continuous Integration  
-* Build Configurations  
+* [Build Configurations](build-configurations.md)  
 * Schemes  
 * Xcode Server  
 * Version Control  
