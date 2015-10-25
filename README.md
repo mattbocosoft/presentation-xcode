@@ -19,9 +19,9 @@ The most popular alternative IDE for developing native software for OS X, iOS, a
 Xcode is complex software with many features. This presentation will cover some of the more popular and used workflows and features.  
 
 ###Develop  
+* [Navigators](develop-navigators.md)  
 * [Source Editor](source-editor.md)  
 * [Editor Panes](editors.md)  
-* [Navigators](develop-navigators.md)  
 * [Documentation](documentation.md)  
 
 ###Design  
