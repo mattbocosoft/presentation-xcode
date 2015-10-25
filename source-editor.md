@@ -16,6 +16,20 @@ While typing in Xcode, it's easy to type the names of symbols (e.g. methods, var
 
 ![code-completion](images/code-completion.png)  
 
+###File Searching  
+
+To search for symbols within a file open in the source editor:  
+* Under the Xcode Find menu, select "Find..."  
+* Use the keyboard shortcut, Command+F (⌘F)  
+
+![source-editor-find](images/source-editor-find.png)  
+
+The "Find" dropdown on the Find toolbar can be used to access the Find and Replace feature.  
+
+The magnifying glass dropdown gives access to more advanced Find options like regular expressions, patterns, case matching and text wrapping.  
+
+The left and right arrows on the far right of the toolbar navigate between found instances, and the done button completes and closes the Find-in-file toolbar.  
+
 
 ###File Navigation  
 
