@@ -66,3 +66,24 @@ In my own experience, this is an infrequently used navigator and is not an impor
 ###Find Navigator  
 
 This is a more complex navigator with many frequently used features for finding files and symbols across the workspace or a specific scope.
+
+The keyboard Shortcut to access the Find Navigator is Command+Shift+F (⌘⇧F), which is similar to the Find-in-file keyboard shortcut.  
+
+#####Jump Bar
+The top jump bar controls the find operations via three levels:  
+1. Find or Replace  
+  * Find simply finds symbols  
+  * Replace finds and replaces symbols with a new symbol  
+2. Text, References, Definitions, Regular Expression, Call Hierarchy  
+3. Containing, Matching, Starting with, Ending with  
+  * These patterns do not apply to Regular Expression or Call Hierarchy.  
+
+####Search Bar  
+Below the search bar is a text field to type in the search text, pattern or regular expression. If the Replace operation is active, then a second text field will display.
+
+The magnifying glass dropdown displays a list of recent results.
+
+#####Context  
+The find/replace operation can be performed within the entire workspace, or by clicking "In Workspace" the developer can define within which Projects, Folder References, or Groups the search should be performed.  
+
+To the right of the context definition, the search can be toggled between "Igoring Case" and "Matching case".  
