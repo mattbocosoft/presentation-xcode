@@ -45,4 +45,19 @@ If you attempt to remove an empty group or an invalid file reference, the change
 
 ###Symbol Navigator  
 
+The Symbol Navigator displays a flat or hierarchical list of symbols used in the Project. Just like the Project Navigator, the Symbol Navigator contains of a list and a toolbar at the bottom. The toolbar contains a dynamic text filter as well as three preset filters:  
+
+1. Show only class and protocol symbols (hide other global symbol types)  
+*For example, Functions, Structs, Unions, Enums, Types and Globals.*  
+
+2. Show only project-defined symbols  
+*I recommend that this filter be used to filter out all lower-level system symbols and concentrate on the symbols that the develop has defined.*  
+
+3. Show only containers (hide members)  
+
+In my own experience, this is an infrequently used navigator and is not an important part of a developer's workflow.  
+
+*Reference*  
+[iOS Developer Library: Symbol Navigator Help](https://developer.apple.com/library/ios/recipes/xcode_help-symbol_navigator/Recipe.html)  
+
 ###Find Navigator  
