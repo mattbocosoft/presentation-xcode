@@ -21,7 +21,7 @@ Xcode is complex software with many features. This presentation will cover some 
 ###Develop  
 * [Source Editor](source-editor.md)  
 * [Editor Panes](editors.md)  
-* [Navigator](area-navigator.md)  
+* [Navigators](develop-navigators.md)  
 * [Documentation](documentation.md)  
 
 ###Design  
