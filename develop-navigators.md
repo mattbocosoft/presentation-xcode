@@ -61,3 +61,5 @@ In my own experience, this is an infrequently used navigator and is not an impor
 [iOS Developer Library: Symbol Navigator Help](https://developer.apple.com/library/ios/recipes/xcode_help-symbol_navigator/Recipe.html)  
 
 ###Find Navigator  
+
+This is a more complex navigator with many frequently used features for finding files and symbols across the workspace or a specific scope.
