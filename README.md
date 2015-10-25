@@ -20,6 +20,7 @@ Xcode is complex software with many features. This presentation will cover some 
 
 ###Workflow  
 * [Source Editor](source-editor.md)  
+* [Editor Panes](editors.md)  
 * [Interface Builder](interface-builder.md)  
 * [Documentation](documentation.md)  
 
@@ -32,11 +33,6 @@ Xcode is complex software with many features. This presentation will cover some 
 ###Window Areas  
 * [Navigator](area-navigator.md)  
 * [Debug](area-debug.md)  
-
-###Editors  
-* Standard Editor  
-* Assistant Editor  
-* Version Editor  
 
 ###Project Logistics  
 * App Store Submission  
