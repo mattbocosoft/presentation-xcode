@@ -1,6 +1,8 @@
-#Navigators: Develop  
+#Navigator Area  
 
 The far left panel is called the Navigator area. At the top of the Navigator area is series of tabs that open Navigators which assist at various stages of the software life cycle. Below are the Navigators that are frequently used when writing code.  
+
+Every navigator contains a toolbar and filter at the bottom, and context-sensitive buttons appear depending on the selected navigator.  
 
 ![developer-navigators](images/developer-navigators.png)  
 
@@ -87,3 +89,38 @@ The magnifying glass dropdown displays a list of recent results.
 The find/replace operation can be performed within the entire workspace, or by clicking "In Workspace" the developer can define within which Projects, Folder References, or Groups the search should be performed.  
 
 To the right of the context definition, the search can be toggled between "Igoring Case" and "Matching case".  
+
+![build-debug-navigators](images/build-debug-navigators.png)  
+
+###Issue Navigator  
+The issue navigator displays a hierarchical list of warnings and error related to the most recent build. The list can be sorted by file and by type. Single-clicking any issue will display the issue in code. In many cases, Xcode will offer suggestions for how to correct the issue.  
+
+The toolbar contains several filters which help to narrow down the issue list:  
+* Show issues with matching content  
+* Show only errors  
+
+[iOS Developer Library: Issue Navigator](https://developer.apple.com/library/ios/recipes/xcode_help-issue_navigator/articles/viewing_issues_in_the_issue_navigator.html)  
+
+###Test Navigator  
+The test navigator displays a list of tests and indicators to the right of each test for success or failure. Testing is a powerful and important part of the software life cycle, and deserves a presentation devoted to the topic, so I will not delve further into this topic.  
+
+[iOS Developer Library: Test Navigator](https://developer.apple.com/library/ios/recipes/xcode_help-test_navigator/Recipe.html)  
+
+###Debug Navigator  
+The Debug Navigator displays the call stack when the app has been paused, either via the pause button on the Debug area toolbar, or via a prefined breakpoint.  
+
+In addition, the Debug Navigator offers a quick glance at CPU, Memory, Disk, and Network usage without having to use a Profiler.  
+
+[iOS Developer Library: Debug Navigator](https://developer.apple.com/library/ios/recipes/xcode_help-debug_navigator/articles/about_debug_navigator.html)  
+
+###Breakpoint Navigator  
+The Breakpoint Navigator displays a hierachical list of breakpoints set throughout the project. Clicking the blue breakpoint icon to the right of each breakpoint will disable or enable the breakpoint. Dark blue means enabled and faded blue means disabled.  
+
+There is a specialized filter on the bottom toolbar that makes the breakpoint navigator display only the enabled breakpoints.  
+
+[iOS Developer Library: Breakpoint Navigator](https://developer.apple.com/library/ios/recipes/xcode_help-breakpoint_navigator/articles/about_breakpoint_navigator.html)  
+
+###Report (Log) Navigator  
+This navigator shows historical reports generated during the development process, including build, debug, archive and other events. If Xcode Server is used and connected for Continuous Integration, the build reports will appear in this navigator as well.  
+
+[iOS Developer Library: Log Navigator](https://developer.apple.com/library/ios/recipes/xcode_help-log_navigator/articles/log_navigator-about.html)  
