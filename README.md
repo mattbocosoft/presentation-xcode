@@ -35,8 +35,7 @@ Xcode is complex software with many features. This presentation will cover some 
 * [Debug](area-debug.md)  
 
 ###Deploy  
-* Private Distribution  
-* App Store Distribution  
+* Archiving and Distribution  
 
 ###Operation and Maintenance  
 * Upgrading Xcode  
