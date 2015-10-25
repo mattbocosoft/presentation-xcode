@@ -39,4 +39,6 @@ The debug build configuration sets the **Build Active Architecture Only** option
 
 The settings for the new build configuration can be edited by clicking on the "Build Settings" tab on the top of the project editor.  
 
+![build-configurations](images/build-configurations.png)  
+
 *Reference*: [iOS Developer Library: Adding a Build Configuration](https://developer.apple.com/library/ios/recipes/xcode_help-project_editor/Articles/BasingBuildConfigurationsonConfigurationFiles.html)
