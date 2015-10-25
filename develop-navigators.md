@@ -40,8 +40,8 @@ If you attempt to remove a group of file or a single file, a confirmation dialog
 
 If you attempt to remove an empty group or an invalid file reference, the change will occur immediately without any confirmation dialog.  
 
-*References*  
-(iOS Developer Library: Project Navigator Help)[https://developer.apple.com/library/ios/recipes/xcode_help-structure_navigator/articles/About_the_Project_Navigator.html]  
+*Reference*  
+[iOS Developer Library: Project Navigator Help](https://developer.apple.com/library/ios/recipes/xcode_help-structure_navigator/articles/About_the_Project_Navigator.html)  
 
 ###Symbol Navigator  
 
