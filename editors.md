@@ -21,8 +21,14 @@ The third and final editor relies on the integration of version control to be us
 **Comparison**  
 This is a great feature to compare the current version and pending changes to the source code with the previous checkin. Comparison can also be used to change different versions of the previous source code against each other; this might be helpful for when a developer is searching for the point in time at which a bug was introduced.  
 
+![version-control-comparison](images/version-control-comparison.png)  
+
 **Blame**  
 Though the name sounds unfriendly, Blame mode is a powerful tool to follow the history of source code and if need be, track down the original author of the file or a specific set of lines. This may be important in cases where the business decisions surrounding the implementation of a piece of source code are not well documented, and the developer needs to talk with whoever wrote the first version of the code in order to discuss with them about it.  
 
+![version-control-blame](images/version-control-blame.png)  
+
 **Log**  
 The "Log" mode enables a developer to see all changes affecting the entire file over time. This feature also helps with tracking down the original authors and seeing how the source code has evolved over time.  
+
+![version-control-log](images/version-control-log.png)  
