@@ -19,6 +19,9 @@ The file list integrates source control by showing an icon to the right of files
 'A' Files that have been added and staged but not yet committed  
 'M' Tracked files which have been changed since the last commit  
 
+#####Opening Files  
+Xcode supports opening files in multiples tabs. To open a file in the current tab, simply single-click the file. Double-clicking a file can yield different behavior depending on user-preferences configured in Preferences on the "Navigation" tab. Xcode can be configured to open a file in a new tab when the file is double-clicked.  
+
 #####Adding Files  
 There are many ways to add new files to the project:  
 * Drag and drop a file or folder directly into the file list inside of the desired group level.  
