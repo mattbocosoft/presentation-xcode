@@ -36,7 +36,7 @@ If you attempt to remove a group of file or a single file, a confirmation dialog
 *Remove Reference*: This means that the file reference(s) will be removed from the project list, but the file(s) will persist on disk.  
 *Move to Trash*: This means that both the file reference(s) will be removed from the project list, as well as the file(s) being deleted from disk.  
 
-![delete-confirmation-dialog](images/delete-confirmation-dialog/png)  
+![delete-confirmation-dialog](images/delete-confirmation-dialog.png)  
 
 If you attempt to remove an empty group or an invalid file reference, the change will occur immediately without any confirmation dialog.  
 
