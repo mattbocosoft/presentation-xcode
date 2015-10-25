@@ -16,8 +16,25 @@ While typing in Xcode, it's easy to type the names of symbols (e.g. methods, var
 
 ![code-completion](images/code-completion.png)  
 
-It's important to learn how to take advantage of short-cuts like code completion and keyboard shortcuts in order to speed up your workflow.  
 
+###File Navigation  
 
-###Navigation
-Use the left and right arrows on the top left corner of the window to navigate 
+**Forward and Back Arrows**  
+Xcode keeps a stack of the most recent files opened. Use the left and right arrows on the top left corner of the window to navigate the stack just like you would a web-browser. Alternatively, the keyboard shortcuts Control+Command+Left-Arrow (⌃⌘+Left) and Control+Command+Right-Arrow (⌃⌘+Right) may be used.  
+
+**Header and Implementation**  
+Quickly flip between the header and implementation files of class using the keyboard shortcut Command+Control+Up (⌘⌃+Up).
+
+**Open Quickly**  
+Quickly jump to a file without the Navigation pane by using the keyboard shortcut Command+Shift+O (⌘⇧+'O').  
+
+![open-quickly](images/source-editor-open-quickly.png)  
+
+**Jump Bar**  
+At the top of the source editor area is the jump bar, which enables the developer to navigate to bookmarks (pragma marks, methods, etc.) in the current file...
+
+![source-editor-jump-bar-file](images/source-editor-jump-bar-file.png)  
+
+...or jump to a different file in the project.  
+
+![source-editor-jump-bar-folder](images/source-editor-jump-bar-folder.png)  
