@@ -124,3 +124,6 @@ There is a specialized filter on the bottom toolbar that makes the breakpoint na
 This navigator shows historical reports generated during the development process, including build, debug, archive and other events. If Xcode Server is used and connected for Continuous Integration, the build reports will appear in this navigator as well.  
 
 [iOS Developer Library: Log Navigator](https://developer.apple.com/library/ios/recipes/xcode_help-log_navigator/articles/log_navigator-about.html)  
+
+**Next Up**: [Source Editor](source-editor.md)  
+...or return to the [homepage](README.md).
