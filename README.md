@@ -35,6 +35,8 @@ Software Engineer is not just programming, but includes a whole range of logisti
 * [Debug Area](area-debug.md)  
 * [Distribution](distribute.md)  
 
+Xcode is a powerful Integrated Development Environment that enables mobile developers to create beautiful, safe and intuitive apps. If you'd like to learn more about Xcode, here is some [further-reading](further-reading.md).  
+
 ###References  
 [1] https://en.wikipedia.org/wiki/Xcode  
 
