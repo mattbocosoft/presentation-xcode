@@ -9,7 +9,7 @@ Presentation 2
 
 Xcode is the [Integrated Development Environment (IDE)](https://en.wikipedia.org/wiki/Integrated_development_environment) for developing software for projects on Mac OS X, iOS, watchOS and tvOS.
 
-###Background  
+## Background  
 Xcode is available only for Mac OSX and is free to download from the [Mac App Store](http://www.apple.com/osx/apps/app-store/). Preview and previous versions of Xcode are available via the [Apple Developer Portal](https://developer.apple.com).
 
 The first version of Xcode was released in 2003, and was based off of Project Builder (PBX) which had previously been used to build software for OS X. Starting with Xcode 4 in 2010, Apple has announced a new version of the software annually at the [Apple Worldwide Developers Conference (WWDC)](https://developer.apple.com/wwdc/).  
@@ -20,23 +20,19 @@ The most popular alternative IDE for developing native software for OS X, iOS, a
 
 Xcode is complex software with many features. This presentation will cover some of the more popular and used workflows and features.  
 
-###Develop  
+## Design and Develop  
+Xcode is made of many panels, areas and modes. These sections will go over the features that help a developer during the design and implementation phase of the software life cycle.  
 * [Navigators](develop-navigators.md)  
 * [Source Editor](source-editor.md)  
 * [Editor Panes](editors.md)  
 * [Documentation](documentation.md)  
-
-###Design  
 * [Interface Builder](interface-builder.md)  
 
-###Build  
+## Build, Debug, and Deploy  
+Software Engineer is not just programming, but includes a whole range of logistical components including build configurations, debugging and distribution. These pages review useful workflows that help with the processes beyond writing code.  
 * [Build Configurations](build-configurations.md)  
 * [Schemes](schemes.md)  
-
-###Test and Debug  
-* [Debug](area-debug.md)  
-
-###Deploy  
+* [Debug Area](area-debug.md)  
 * [Distribution](distribute.md)  
 
 ###References  
