@@ -26,3 +26,7 @@ Access the full documentation and API reference without context-sensitive look-u
 An alternative is to use the keyboard short-cut Shift-Command-0 (⇧⌘0).
 
 ![documentation-and-api-reference-window](images/documentation-and-api-reference-window.png)
+
+**Previous**: [Editor Panes](editors.md)  
+**Next Up**: [Interface Builder](interface-builder.md)  
+...or return to the [homepage](README.md).
