@@ -32,3 +32,7 @@ Though the name sounds unfriendly, Blame mode is a powerful tool to follow the h
 The "Log" mode enables a developer to see all changes affecting the entire file over time. This feature also helps with tracking down the original authors and seeing how the source code has evolved over time.  
 
 ![version-control-log](images/version-control-log.png)  
+
+**Previous**: [Source Editor](source-editor.md)  
+**Next Up**: [Documentation](documentation.md)  
+...or return to the [homepage](README.md).
