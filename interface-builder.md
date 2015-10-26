@@ -40,3 +40,7 @@ If the Nib is not using autolayout, then this tab is where the developer could m
 
 #####Connections Inspector
 This inspector establishes the connections between the code and the interface builder. With buttons, for example, developers commonly drag the "Touch Up Inside" connection onto the code to create a new method that should be called when the button is tapped. If a subview needs to be manipulated in some way from the code (e.g. setting visibility, etc.), a referencing outlet can be created and linked to the code.
+
+**Previous**: [Documentation](documentation.md)  
+**Next Up**: [Build Configurations](build-configurations.md)  
+...or return to the [homepage](README.md).
