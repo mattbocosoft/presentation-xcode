@@ -32,3 +32,7 @@ With this set of schemes, the team has a build workflow ready for each stage of 
 
 **References**  
 [1] [iOS Developer Library: Xcode Scheme](https://developer.apple.com/library/ios/featuredarticles/XcodeConcepts/Concept-Schemes.html)
+
+**Previous**: [Build Configurations](build-configurations.md)  
+**Next Up**: [Debug Area](area-debug.md)  
+...or return to the [homepage](README.md).
