@@ -14,6 +14,8 @@ Xcode is available only for Mac OSX and is free to download from the [Mac App St
 
 The first version of Xcode was released in 2003, and was based off of Project Builder (PBX) which had previously been used to build software for OS X. Starting with Xcode 4 in 2010, Apple has announced a new version of the software annually at the [Apple Worldwide Developers Conference (WWDC)](https://developer.apple.com/wwdc/).  
 
+During the transition phase from one version of Xcode to the next, it is common to keep both the previous version and the new version until all projects are updated. This can be done by simply giving the two versions of the Xcode app different names, and selecting the version of command-line tools to use via [xcode-select](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/xcode-select.1.html).  
+
 The most popular alternative IDE for developing native software for OS X, iOS, and watchOS is [AppCode](https://www.jetbrains.com/objc/). Other IDE's support cross-platform development of OS X and iOS apps using langauges like C#.  
 
 Xcode is complex software with many features. This presentation will cover some of the more popular and used workflows and features.  
@@ -36,10 +38,6 @@ Xcode is complex software with many features. This presentation will cover some 
 
 ###Deploy  
 * [Distribution](distribute.md)  
-
-###Operation and Maintenance  
-* Upgrading Xcode  
-* Version Control  
 
 ###References  
 [1] https://en.wikipedia.org/wiki/Xcode  
