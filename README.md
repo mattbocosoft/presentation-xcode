@@ -40,5 +40,5 @@ Xcode is a powerful Integrated Development Environment that enables mobile devel
 ###References  
 [1] https://en.wikipedia.org/wiki/Xcode  
 
-Written by [Matthew Thomas](mailto:matt@bocosoft.net)
+Written by [Matthew Thomas](mailto:matt@bocosoft.net)  
 *Fall 2015, CSCI 5828*
