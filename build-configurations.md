@@ -42,3 +42,7 @@ The settings for the new build configuration can be edited by clicking on the "B
 ![build-configurations](images/build-configurations.png)  
 
 *Reference*: [iOS Developer Library: Adding a Build Configuration](https://developer.apple.com/library/ios/recipes/xcode_help-project_editor/Articles/BasingBuildConfigurationsonConfigurationFiles.html)
+
+**Previous**: [Interface Builder](interface-builder.md)  
+**Next Up**: [Schemes](schemes.md)  
+...or return to the [homepage](README.md).
