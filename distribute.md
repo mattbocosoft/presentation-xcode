@@ -23,3 +23,5 @@ To distribute an internal Enterprise release build, use this option. The build w
 
 4. Development  
 To distribute a development build for testing, export using development. The build will be built using a development certificate and provisioning profile.  
+
+Return to the [homepage](README.md).
