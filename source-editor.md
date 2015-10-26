@@ -52,3 +52,7 @@ At the top of the source editor area is the jump bar, which enables the develope
 ...or jump to a different file in the project.  
 
 ![source-editor-jump-bar-folder](images/source-editor-jump-bar-folder.png)  
+
+**Previous**: [Navigators](develop-navigators.md)  
+**Next Up**: [Editor Panes](editors.md)  
+...or return to the [homepage](README.md).
