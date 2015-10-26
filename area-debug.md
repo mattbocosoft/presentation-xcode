@@ -36,3 +36,7 @@ The trash can icon wipes the contents of the console.
 
 *References*  
 [iOS Developer Library: Debugging with Xcode](https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/debugging_with_xcode/chapters/debugging_tools.html)  
+
+**Previous**: [Schemes](schemes.md)  
+**Next Up**: [Distribute](distribute.md)  
+...or return to the [homepage](README.md).
