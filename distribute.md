@@ -13,7 +13,13 @@ Click the "Export" button to create an archive that can be manually distributed 
 ![distribute-export-dialog](images/distribute-export-dialog.png)  
 
 1. iOS App Store  
-2. Ad Hoc  
-3. Enterprise  
-4. Development  
+If you want to create the archive to submit through a different medium than Xcode, then you can export the build. This option is useful if the project is using some sort of automated build and submission process other than Xcode, like [Fastlane.tools](https://fastlane.tools). The build will be built using your App Store distribution certificate and provisioning profile. Note that you cannot use this option if you only have an Enterprise distribution license.  
 
+2. Ad Hoc  
+To distribute a release build for testing before submitting to the App Store, export using Ad Hoc. The build will be built using your App Store distribution certificate and provisioning profile.  
+
+3. Enterprise  
+To distribute an internal Enterprise release build, use this option. The build will be built using your Enterprise distribution certificate and provisioning profile. Note that you cannot use this option if you only have an App Store distribution license, and builds built using this option cannot be distributed outside of your organization else you risk violating Apple's terms.  
+
+4. Development  
+To distribute a development build for testing, export using development. The build will be built using a development certificate and provisioning profile.  
